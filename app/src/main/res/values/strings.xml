@@ -5,7 +5,7 @@
     <string name="chose_a_dessert">Choose a dessert.</string>
     <string name="donut_desc">Donuts are glazed and sprinkled with candy</string>
     <string name="icecream_desc">Cool milk flavored icecreams</string>
-    <string name="froyo_desc">asjdkasbdkbashjkdas</string>
+    <string name="froyo_desc">Simply delicious</string>
     <string name="donut_order_message">You ordered a donut.</string>
     <string name="ice_cream_order_message">You ordered an ice cream sandwich.</string>
     <string name="froyo_order_message">You ordered a FroYo.</string>
@@ -15,4 +15,15 @@
     <string name="pick_up">Pick up</string>
     <string name="chosen">"Chosen: "</string>
     <string name="nothing_clicked">"onRadioButtonClicked: Nothing clicked. "</string>
+    <string name="action_contact">Contact</string>
+    <string name="action_order">Order</string>
+    <string name="action_status">Status</string>
+    <string name="action_favorite">Favorite</string>
+    <string name="action_order_message">You selected Order.</string>
+    <string name="action_status_message">You selected Status.</string>
+    <string name="action_favorites_message">You selected Favorites.</string>
+    <string name="action_contact_message">You selected Contact.</string>
+    <string name="google_mtw_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
+    <string name="snackbar_text">Replace with your own action</string>
+    <string name="title_activity_order">Order Activity</string>
 </resources>
