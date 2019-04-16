@@ -26,4 +26,5 @@
     <string name="google_mtw_coord_zoom12">geo:37.422114,-122.086744?z=12</string>
     <string name="snackbar_text">Replace with your own action</string>
     <string name="title_activity_order">Order Activity</string>
+    <string name="welcome_message">Welcome in droid cafe!</string>
 </resources>
